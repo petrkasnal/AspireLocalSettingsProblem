@@ -7,10 +7,7 @@
   },
   "ConnectionStrings": {
     "Messaging": "",
-    "Messaging2": "",
-    "Messaging3": "",
-    "Messaging4": "",
-    "Messaging5": "",
-    "Messaging6": ""
+    "ExternalApi": "",
+    "ExternalApi2": ""
   }
-}
+} 
